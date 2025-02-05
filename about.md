@@ -7,8 +7,6 @@ bodyClass: page-about
 
 This is the about page for NWCNS!  More to come!
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
-
 # Objectives
 
 Solve your computer and networking woes!

@@ -7,9 +7,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-## Business Support
+# Business Support
 
-# Company Overview
+## Company Overview
 NWCNS is owned and operated by I.T. professionals that have been in the I.T. industry for the last 40 years.
 This experience includes managing and running support organizations for distributed businesses in the US and
 Canada.  This experience translates into quality support services for our current and future business customers

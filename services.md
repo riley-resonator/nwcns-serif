@@ -7,11 +7,17 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# NWCNS Services
+## Business Support
 
-1. Service 1: fix the computer
-2. Service 2: fix the network
-3. Service 3: fix the backups
+# Company Overview
+NWCNS is owned and operated by I.T. professionals that have been in the I.T. industry for the last 40 years.
+This experience includes managing and running support organizations for distributed businesses in the US and
+Canada.  This experience translates into quality support services for our current and future business customers
+
+Our staff is A+ trained and certified.  Our senior staff is ITIL foundation certified.  This provides I.T. 
+Process experience for your business.  We have 15 years experience with standardized ISO documentation of 
+I.T. procedures and processes.
+
 
 <br/>
 <br/>

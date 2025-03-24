@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 ---
 
 # Business Support
-<br/>
+
 ## Company Overview
 NWCNS is owned and operated by I.T. professionals that have been in the I.T. industry for the last 40 years.
 This experience includes managing and running support organizations for distributed businesses in the US and
@@ -17,7 +17,8 @@ Canada.  This experience translates into quality support services for our curren
 Our staff is A+ trained and certified.  Our senior staff is ITIL foundation certified.  This provides I.T. 
 Process experience for your business.  We have 15 years experience with standardized ISO documentation of 
 I.T. procedures and processes.
-<br/>
+
+
 ## Customer Benefits
 * Rigid technical screening of employees insures a high standard of I.T. experience for your company needs
 * Regular I.T. training of our employees means efficient resolution of your issues and or projects.
@@ -26,8 +27,8 @@ I.T. procedures and processes.
 * Our senior technicians have been through Cisco Certified Network Administration training.
 * Our experience with training users means less time becoming more effective with your business processes.
 * We have a fee for service structure that gives you discounts as you increase the amount of hours you use.
-<br/>
-<br/>
+
+
 ## General Support
 * Problem determination and repair for standard software and hardware issues
 * Resolve Network connectivity issues

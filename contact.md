@@ -15,4 +15,4 @@ Email: nwcns@nwcns.com
 | Thursday  | 9:00am - 5:00pm |
 | Friday    | 9:00am - 5:00pm |
 | Saturday  |By Appointment Only|
-| Saturday  |By Appointment Only|
+| Sunday    |By Appointment Only|

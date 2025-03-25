@@ -2,8 +2,8 @@ main:
     - name: "About"
     url: "/about/"
     weight: 2
-  - name: "Bussiness Support"
-    url: "/services/"
+  - name: "Services"
+    url: "/Business Support/"
     weight: 4
   - name: "Contact Us"
     url: "/contact/"

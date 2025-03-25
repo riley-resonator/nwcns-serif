@@ -6,6 +6,7 @@
 
 ## Hours
 10:00am - 5:00pm Monday - Friday
+
 Note: Weekends and evenings available by appointment only
 
 ## Email

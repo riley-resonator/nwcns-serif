@@ -4,7 +4,8 @@ layout: contact
 description: Contact
 ---
 
-Want help from NWCNS?  Here's how to do it:
+Phone: 224-764-0323
+Email: nwcns@nwcns.com
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
@@ -13,4 +14,4 @@ Want help from NWCNS?  Here's how to do it:
 | Thursday  | 9:00am - 5:00pm |
 | Friday    | 9:00am - 5:00pm |
 | Saturday  |By Appointment Only|
-| Saturday  | By Appointment Only|
+| Saturday  |By Appointment Only|

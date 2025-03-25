@@ -12,5 +12,5 @@ Want help from NWCNS?  Here's how to do it:
 | Wednesday | 9:00am - 5:00pm |
 | Thursday  | 9:00am - 5:00pm |
 | Friday    | 9:00am - 5:00pm |
-| Saturday  | Closed  |
-| Saturday  | Closed          |
+| Saturday  |By Appointment Only|
+| Saturday  | By Appointment Only|

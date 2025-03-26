@@ -35,7 +35,7 @@ I.T. procedures and processes.
 * General setup of all applications (custom applications require documentation)
 
 
-# Home Support
+<h1>Home Support</h1>
 
 ## Company Overview
 NWCNS is owned and operated by I.T. professionals that have been in the I.T. industry for the last 40 years.
@@ -57,7 +57,7 @@ I.T. procedures and processes.
 * Installation and setup of Home Networks (Wireless, wired or the combination of the two)
 * General setup of all applications (custom applications require documentation)
 
-# Business Services
+<h1>Business Services</h1>
 
 ## Repair & Troubleshooting
 When a system goes down, you need it back up fast.  Our certified professionals will get your business running again with same-day, next-day, after-hours and weekend service.  Our job is to get you running again.
@@ -94,7 +94,7 @@ Whether new or old, you need documentation on how your Network, PCs and software
 
 
 
-# Business Pricing
+<h1>Business Pricing</h1>
 
 ## Fee Structure: 
 Our fees are based on the amount of time that you contract for.  The following is our basic fee structure for a Desktop Support resource.  If you have not contracted for any time in advance, the hourly fee is $75.00/hr.  Time is billed in 15 minute increments or any part for anything over one hour.  Time is billed for travel between locations for the same customer.  There is a 2 hour minimum for any location that is outside a 10 mile radius from the Surprise, AZ office.

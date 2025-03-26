@@ -1,11 +1,10 @@
-... @@ -1,11 +1,11 @@
 main:
+  - name: "Services"
+    url: "/services/"
+    weight: 4
   - name: "About"
     url: "/about/"
     weight: 2
-  - name: "Services"
-    url: "/Services/"
-    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5

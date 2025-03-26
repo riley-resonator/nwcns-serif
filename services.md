@@ -102,7 +102,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 <p>
 <table border="2">
   <tr>
-    <th></th>Blocks of Hours Used</th>       
+    <th>Blocks of Hours Used</th>       
     <th>Fee</th>
   </tr>
   <tr>

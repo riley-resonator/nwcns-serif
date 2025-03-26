@@ -1,4 +1,4 @@
-- main:
+main:
   - name: "About"
     url: "/about/"
     weight: 2

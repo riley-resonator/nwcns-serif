@@ -101,15 +101,14 @@ Our fees are based on the amount of time that you contract for.  The following i
 
 <br/>
 
-| Blocks of Hours Used              |     Fee   |
-<br/>
-|(Purchased in advance)             |           |
-<br/>
-|---------------------------------------|
-<br/>
-| 4 hours of time (Minimum) | $75.00/hr |
-<br/>
-|  8-24 hours of time       | $65.00/hr |
-<br/>
-| 40 hours of time          | $50.00/hr |
+<table>Blocks of Hours Used          Fee   
+
+(Purchased in advance)
+
+
+4 hours of time (Minimum)  $75.00/hr 
+
+8-24 hours of time         $65.00/hr 
+
+40 hours of time           $50.00/hr</table> 
 

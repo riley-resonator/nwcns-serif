@@ -10,13 +10,13 @@ NWCNS is owned and operated by I.T. professionals that have been in the I.T. ind
 
 Our staff is A+ trained and certified. Our senior staff is ITIL foundation certified. This provides I.T. Process experience for your business. We have 15 years experience with standardized ISO documentation of I.T. procedures and processes.
 
-## Subheading
-This is something under objectives
+//## Subheading
+//This is something under objectives
 
-# This is another top level thing
+//# This is another top level thing
 
-## another subheading
-Who what where when why
+//## another subheading
+//Who what where when why
 
-### a sub-sub-heading
-text under the sub-sub-heading
+//### a sub-sub-heading
+//text under the sub-sub-heading

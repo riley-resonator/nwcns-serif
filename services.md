@@ -57,6 +57,44 @@ I.T. procedures and processes.
 * Installation and setup of Home Networks (Wireless, wired or the combination of the two)
 * General setup of all applications (custom applications require documentation)
 
+# Business Services
+
+## Repair & Troubleshooting
+When a system goes down, you need it back up fast.  Our certified professionals will get your business running again with same-day, next-day, after-hours and weekend service.  Our job is to get you running again.
+
+## IMAC
+* Brief end user orientation on deployed equipment
+* Cascade or Decommission of old assets while following defined processes such as data retention and erasure of data on decommissioned equipment.
+* Install software utilizing customers core image
+* Image creation of customers standard installation
+* Install and train on customized applications (documentation required)
+* I.T. hardware inventory
+* Perform moves and upgrades
+* Update customers asset database with adds/deletes of your equipment
+* Create asset database for tracking of customer equipment
+
+## Customized Service Plans
+Scheduled on site and phone support services are available to ensure your office computers are working perfectly.  As little as a few hours a week can help keep your systems running smoothly.  Our support agreements are customizeable to make sure you get the help you need.
+
+## Small Business Data Backup
+Never lose a minute of your work with data backup and recovery solutions.  We will provide you with a backup solution tailored for your buisness to assure you don't lose your important data.
+
+## Virus/Spyware Detection and Removal
+A Virus or Malware in the office can be especially devastating.  We use the latest Virus/Malware detection software to keep your systems safe. The software we recommend is highly recommended due to their track record. We do not provide the license for this software but will work with you to purchase and install it.
+
+## Customized Projects
+When you have a project that requires help, we can evaluate your project and quote on it.  We have experience installing software, hardware upgrades, migrating data and much more in a managed project format.  We can help you plan out projects like operating system migrations and replacing computers.
+
+## One-on-One Training
+Your business has the latest software, but now your employees need to know how it works.  We offer training on Windows systems, Office products, wireless applications and any software you need for your business.  Customized software will require a partnership in creating training manuals for your employees.
+
+## Documentation
+Whether new or old, you need documentation on how your Network, PCs and software work.  We can provide you with all of your required documentation needs.  We have ISO experience and are ITIL certified, which is beneficial to you in developing documentation specific for your business.  We have over 15 years experience in developing I.T. Run Books for comapanies.
+
+
+
+
+
 <br/>
 <br/>
 <br/>

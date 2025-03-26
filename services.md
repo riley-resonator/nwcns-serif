@@ -7,7 +7,7 @@ description: Services
 //intro_image_hide_on_mobile: true
 ---
 
-<h1><b>Business Support</b></h1>
+<h1>Business Support</h1>
 
 ## Company Overview
 NWCNS is owned and operated by I.T. professionals that have been in the I.T. industry for the last 40 years.

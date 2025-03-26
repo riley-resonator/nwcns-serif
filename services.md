@@ -101,7 +101,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 
 <br/>
 
-<tr>Blocks of Hours Used          Fee</tr>   
+<tr>Blocks of Hours Used  </tr>       <tr> Fee</tr>   
 
 (Purchased in advance)
 

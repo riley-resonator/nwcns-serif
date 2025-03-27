@@ -3,7 +3,7 @@ main:
     url: "/about/"
     weight: 10
   - name: "Business Support"
-    url: "/services/"
+    url: "/business_support/"
     weight: 20
   - name: "Home Support"
     url: "/home_support/"

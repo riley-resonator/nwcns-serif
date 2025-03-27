@@ -119,3 +119,23 @@ Our fees are based on the amount of time that you contract for.  The following i
   </tr>  
 </table>
 </p>
+<p>
+<table border="4">
+  <tr>
+    <th>Blocks of Remote Hours Bought</th>       
+    <th>Fee</th>
+  </tr>
+  <tr>
+     <td>4 hours of time (Minimum)</td> 
+     <td>$55.00/hr</td> 
+  </tr>
+  <tr>
+    <td>8-24 hours of time</td>         
+    <td>$50.00/hr</td> 
+  </tr>
+  <tr></tr>
+    <td>40 hours of time</td>           
+    <td>$45.00/hr</td>
+  </tr>  
+</table>
+</p>

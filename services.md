@@ -103,7 +103,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 <table border="6">
   <tr>
     <th>On-Site Hours Bought</th>       
-    <th>Fee</th>
+    <th> Fee</th>
   </tr>
   <tr>
      <td>4 hours of time</td> 
@@ -123,7 +123,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 <table border="6">
   <tr>
     <th>Remote Hours Bought</th>       
-    <th>Fee</th>
+    <th> Fee</th>
   </tr>
   <tr>
      <td>4 hours of time</td> 

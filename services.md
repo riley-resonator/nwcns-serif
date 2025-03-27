@@ -100,7 +100,7 @@ Whether new or old, you need documentation on how your Network, PCs and software
 Our fees are based on the amount of time that you contract for.  The following is our basic fee structure for a Desktop Support resource.  If you have not contracted for any time in advance, the hourly fee is $75.00/hr.  Time is billed in 15 minute increments or any part for anything over one hour.  Time is billed for travel between locations for the same customer.  There is a 2 hour minimum for any location that is outside a 10 mile radius from the Surprise, AZ office.
 
 <p>
-<table border="4">
+<table border="5">
   <tr>
     <th>Blocks of On-Site Hours Bought</th>       
     <th>Fee</th>
@@ -120,7 +120,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 </table>
 </p>
 <p>
-<table border="4">
+<table border="5">
   <tr>
     <th>Blocks of Remote Hours Bought</th>       
     <th>Fee</th>

@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# NWCNS: Here to help
+# NWCNS: We Provide Solutions!
 
-NWCNS can enable your custom computer and network setup to finish the business you need.
+NWCNS provides custom solutions for your particular situation. We make recommendations after understanding what your needs are.

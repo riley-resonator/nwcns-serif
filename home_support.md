@@ -49,4 +49,7 @@ Our fees include travel time.  There is a 2 hr. minimum and a travel cost for an
 
  1 hr (Phone Support)       $60.00 ($30.00 for 30 min or any part there in)    
 
-
+|       Time Used          |                    Fee                              |
+| ------------------------ | --------------------------------------------------- |
+| 1 hr On Site (Minimum)   | $70.00/hr. ($35.00 for 30 min or any part there in) |
+| 1 hr (Phone Support)     | $60.00 ($30.00 for 30 min or any part there in)     |

@@ -20,8 +20,7 @@ nwcns@nwcns.com
 Contact through email: nwcns@nwwcns.com
 Surprise, AZ 85379
 
-
-| Day       | Opening Hours   |
+| Day       | Open Hours      |
 | --------- | --------------- |
 | Monday    | 10:00am - 5:00pm|
 | Tuesday   | 10:00am - 5:00pm|

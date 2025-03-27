@@ -106,7 +106,7 @@ Our fees are based on the amount of time that you contract for.  The following i
     <th>Fee</th>
   </tr>
   <tr>
-     <td>4 hours of time (Minimum)</td> 
+     <td>4 hours of time</td> 
      <td>$75.00/hr</td> 
   </tr>
   <tr>
@@ -126,7 +126,7 @@ Our fees are based on the amount of time that you contract for.  The following i
     <th>Fee</th>
   </tr>
   <tr>
-     <td>4 hours of time (Minimum)</td> 
+     <td>4 hours of time</td> 
      <td>$53.00/hr</td> 
   </tr>
   <tr>

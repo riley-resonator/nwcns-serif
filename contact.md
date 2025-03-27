@@ -1,7 +1,7 @@
 ---
-//title: Contact
-//layout: contact
-//description: Contact
+title: Contact
+layout: contact
+description: Contact
 ---
 
 ## Hours

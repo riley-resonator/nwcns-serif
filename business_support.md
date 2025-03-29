@@ -10,7 +10,7 @@ description: Services
 <h1>Business Support</h1>
 
 ## Company Overview
-NWCNS is owned and operated by I.T. professionals that have been in the I.T. industry for the last 40 years.
+NWCNS is owned and operated by an I.T. professional that has been in the I.T. industry for the last 45 years.
 This experience includes managing and running support organizations for distributed businesses in the US and
 Canada.  This experience translates into quality support services for our current and future business customers
 <br/>
@@ -38,7 +38,7 @@ I.T. procedures and processes.
 <h1>Home Support</h1>
 
 ## Company Overview
-NWCNS is owned and operated by I.T. professionals that have been in the I.T. industry for the last 40 years.
+NWCNS is owned and operated by an I.T. professional that has been in the I.T. industry for the last 45 years.
 This experience includes managing and running support organizations for distributed businesses in the US and
 Canada.  This experience translates into quality support services for our current and future business customers
 <br/>
@@ -90,9 +90,6 @@ Your business has the latest software, but now your employees need to know how i
 
 ## Documentation
 Whether new or old, you need documentation on how your Network, PCs and software work.  We can provide you with all of your required documentation needs.  We have ISO experience and are ITIL certified, which is beneficial to you in developing documentation specific for your business.  We have over 15 years experience in developing I.T. Run Books for comapanies.
-
-
-
 
 <h1>Business Pricing</h1>
 

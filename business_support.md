@@ -143,6 +143,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 |8-24 hours of time        | $65.00/hr               |
 |40 hours of time	         | $50.00/hr               |
 
+
 ## On-Site Hours Have a minimum of 2 hours for each occurrance and billed in 30 minute increments or any part of 30 minutes
 
 |       Remote Hours       |          Fee            |
@@ -150,6 +151,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 |4 hours of time           | $53.00/hr               |
 |8-24 hours of time        | $50.00/hr               |
 |40 hours of time	         | $45.00/hr               |
+
 
 ## Remote Hours have a minumum of 1 hour and then billed in 30 minute increments or any part of 30 minutes.
 

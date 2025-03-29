@@ -140,7 +140,6 @@ Our fees are based on the amount of time that you contract for.  The following i
 </p>
 <br/>
 ## Note: Remote Hours have a minumum of 1 hour and then billed in 30 minute increments or any part of 30 minutes.
-
 <br/>
 
 |       On-Site Hours      |          Fee            |

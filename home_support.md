@@ -55,38 +55,16 @@ Our fees include travel time.  There is a 2 hr. minimum and a travel cost for an
     <th> Fee</th>
   </tr>
   <tr>
-     <td>4 hours of time</td> 
-     <td>$75.00/hr</td> 
+     <td>1 hour on site (minimum)</td> 
+     <td>$70.00/hr</td> 
   </tr>
   <tr>
-    <td>8-24 hours of time</td>         
-    <td>$65.00/hr</td> 
+    <td>1 hour phone support</td>         
+    <td>$60.00/hr</td> 
   </tr>
-  <tr>
-    <td>40 hours of time</td>           
-    <td>$50.00/hr</td>
-  </tr>  
-</table>
+  </table>
 </p>
 <br/>
-## Note: On-Site Hours Have a minimum of 2 hours for each occurrance and billed in 30 minute increments or any part of 30 minutes
+## Note: On-Site Hours Have a minimum of 1 hour. Additional time billed in 30 minute increments or any part of 30 minutes.
+## Note: Phone Support has a minimum of 2 hour. Additional time billed in 30 minute increments or any part of 30 minutes.
 <p>
-<table border="5">
-  <tr>
-    <th>Remote Hours</th>       
-    <th> Fee</th>
-  </tr>
-  <tr>
-     <td>4 hours of time</td> 
-     <td>$53.00/hr</td> 
-  </tr>
-  <tr>
-    <td>8-24 hours of time</td>         
-    <td>$50.00/hr</td> 
-  </tr>
-  <tr>
-    <td>40 hours of time</td>           
-    <td>$45.00/hr</td>
-  </tr>  
-</table>
-</p>

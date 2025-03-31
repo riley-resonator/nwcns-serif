@@ -66,5 +66,5 @@ Our fees include travel time.  There is a 2 hr. minimum and a travel cost for an
 </p>
 <br/>
 ## Note: On-Site Hours Have a minimum of 1 hour. Additional time billed in 30 minute increments or any part of 30 minutes.
-## Note: Phone Support has a minimum of 2 hour. Additional time billed in 30 minute increments or any part of 30 minutes.
+## Note: Phone Support has a minimum of 1 hour. Additional time billed in 30 minute increments or any part of 30 minutes.
 <p>

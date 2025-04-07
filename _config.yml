@@ -8,7 +8,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/NWCNS vs 02.svg"
   desktop_height: "200px"
-  desktop_width: "200px"
+  desktop_width: "250px"
 
 home: 
   limit_services: 6

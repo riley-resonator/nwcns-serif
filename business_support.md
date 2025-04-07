@@ -34,29 +34,6 @@ I.T. procedures and processes.
 * Resolve Network connectivity issues
 * General setup of all applications (custom applications require documentation)
 
-
-<h1>Home Support</h1>
-
-## Company Overview
-NWCNS is owned and operated by an I.T. professional that has been in the I.T. industry for the last 45 years.
-This experience includes managing and running support organizations for distributed businesses in the US and
-Canada.  This experience translates into quality support services for our current and future business customers
-<br/>
-Our staff is A+ trained and certified.  Our senior staff is ITIL foundation certified.  This provides I.T. 
-Process experience for your business.  We have 15 years experience with standardized ISO documentation of 
-I.T. procedures and processes.
-
-## Customer Benefits
-* Rigid technical screening of employees insures a high standard of I.T. experience for your needs.
-* Regular I.T. training of our employees means efficient resolution of yoru issues.
-* Our experience with training users means less time becoming more effective with your computer and applications.
-
-## General Support
-* Problem determination and repair for standard software and hardware issues.
-* Resolve Network connectivity issues.
-* Installation and setup of Home Networks (Wireless, wired or the combination of the two)
-* General setup of all applications (custom applications require documentation)
-
 <h1>Business Services</h1>
 
 ## Repair & Troubleshooting

@@ -28,6 +28,7 @@ I.T. procedures and processes.
 * Our experience with training users means less time becoming more effective with your business processes.
 * We have a fee for service structure that gives you discounts as you increase the amount of hours you use.
 
+
 ## General Support
 * Problem determination and repair for standard software and hardware issues
 * Resolve Network connectivity issues

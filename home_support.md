@@ -13,7 +13,7 @@ Our staff is A+ trained and certified. Our senior staff is ITIL foundation certi
 
 ## Customer Benefits
 Rigid technical screening of employees insures a high standard of I.T. experience for your needs.
-Regular I.T. training of our employees means efficient resolution of yoru issues.
+Regular I.T. training of our employees means efficient resolution of your issues.
 Our experience with training users means less time becoming more effective with your computer and applications.
 
 ## General Support
@@ -26,7 +26,7 @@ General setup of all applications (custom applications require documentation)
 All services may be done in home by our technicians.  Same day and after hours services are always available.  Simply call to setup an appointment right in your home.
 
 ## Data Backup and Recovery
-Never lose your files again with backup and recovery solutions we can provide you.  External hard drives or usb flash drives are simple and effective ways to ensure your data is safe.  In addition to setting up backup solutions, we can to recover data already lost due to a recent virus or hardware malfunction.
+Never lose your files again with backup and recovery solutions we can provide you.  External hard drives or USB flash drives are simple and effective ways to ensure your data is safe.  In addition to setting up backup solutions, we can to recover data already lost due to a recent virus or hardware malfunction.
 
 ## Virus/Spyware/Malware Detection and Removal
 If your computer was running well and suddenly took a turn for the worse, you may have a virus, malware or spyware on your computer.  We can restore your computer like new by removing unwanted programs or malware.  We can also install and equip you with the most effective anti virus/malware software available.  This will remove any of these types of issues as well as protect you going forward.  We will also teach you how to avoid having these types of issues.
@@ -49,6 +49,7 @@ Our fees include travel time.  There is a 2 hr. minimum and a travel cost for an
 | 1 hr On Site (Minimum)   | $70.00/hr. ($35.00 for 30 min or any part there in) |
 | 1 hr (Phone Support)     | $60.00 ($30.00 for 30 min or any part there in)     |
 
+<!--
 <p>
 <table border="5">
   <tr>
@@ -69,3 +70,4 @@ Our fees include travel time.  There is a 2 hr. minimum and a travel cost for an
 ## Note: On-Site Hours Have a minimum of 1 hour. Additional time billed in 30 minute increments or any part of 30 minutes.
 ## Note: Phone Support has a minimum of 1 hour. Additional time billed in 30 minute increments or any part of 30 minutes.
 <p>
+-->

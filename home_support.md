@@ -43,6 +43,7 @@ Most people know all of the amazing things a comuter can do, but your just not s
 ## Fees:
 Our fees include travel time.  There is a 2 hr. minimum and a travel cost for any location that is outside a 10 mile radius from our Surprise, AZ office.
 
+{: .table .table-striped}
 |       Time Used          |                    Fee                              |
 | ------------------------ | --------------------------------------------------- |
 | 1 hr On Site (Minimum)   | $70.00/hr. ($35.00 for 30 min or any part there in) |

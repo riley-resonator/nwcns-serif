@@ -28,8 +28,6 @@ I.T. procedures and processes.
 * Our experience with training users means less time becoming more effective with your business processes.
 * We have a fee for service structure that gives you discounts as you increase the amount of hours you use.
 
-<p>
-
 ## General Support
 * Problem determination and repair for standard software and hardware issues
 * Resolve Network connectivity issues
@@ -73,9 +71,9 @@ Whether new or old, you need documentation on how your Network, PCs and software
 
 ## Fee Structure: 
 Our fees are based on the amount of time that you contract for.  The following is our basic fee structure for a Desktop Support resource.  If you have not contracted for any time in advance, the hourly fee is $80.00/hr.  Time is billed in 15 minute increments or any part for anything over one hour.  Time is billed for travel between locations for the same customer.  There is a 2 hr. minimum plus 1 hr. travel time for any location that is outside a 10 mile radius from the Surprise, AZ office.
-
-<p>
+  
 <!--  
+<p>
 <table border="5">
   <tr>
     <th>On-Site Hours</th>       
@@ -121,6 +119,7 @@ Our fees are based on the amount of time that you contract for.  The following i
 <br/>
 ## Note: Remote Hours have a minumum of 1 hour and then billed in 30 minute increments or any part of 30 minutes.
 -->
+
 <br/>
 
 {: .table .table-striped}

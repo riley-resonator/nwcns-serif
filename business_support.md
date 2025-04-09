@@ -27,6 +27,7 @@ I.T. procedures and processes.
 * Our senior technicians have been through Cisco Certified Network Administration training.
 * Our experience with training users means less time becoming more effective with your business processes.
 * We have a fee for service structure that gives you discounts as you increase the amount of hours you use.
+
 <br/>
 
 ## General Support

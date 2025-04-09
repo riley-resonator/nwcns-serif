@@ -18,4 +18,10 @@ footer:
     weight: 1
   - name: "Contact"
     url: "/contact/"
+    weight: 4
+  - name: "Business Support"
+    url: "/business_support/"
     weight: 2
+  - name: "Home Support"
+    url: "/home_support/"
+    weight: 3
